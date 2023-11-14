@@ -11,3 +11,5 @@
 # Ignore some files produced by the examples.
 *.svg
 profile.pb
+
+Cargo.lock
